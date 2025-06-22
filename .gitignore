@@ -27,8 +27,6 @@ venv/
 *.swo
 *~
 
-# --- Output & results ---
-output/
 .installed
 
 # --- OS junk ---

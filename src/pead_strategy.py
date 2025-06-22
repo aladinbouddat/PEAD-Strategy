@@ -582,11 +582,11 @@ days_short = 9
 # days_short = 10
 
 
-initial_date = pd.to_datetime('2020-12-31')
-last_date = pd.to_datetime('2023-12-31')
+#initial_date = pd.to_datetime('2020-12-31')
+#last_date = pd.to_datetime('2023-12-31')
 
-# initial_date = pd.to_datetime('1994-01-03')
-# last_date = pd.to_datetime('2008-12-31')
+initial_date = pd.to_datetime('1994-01-03')
+last_date = pd.to_datetime('2023-12-31')
 
 # import and prepare daily prices data
 prices = pd.read_csv('data/myprices.csv')

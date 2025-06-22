@@ -46,7 +46,7 @@ After completion, the script:
 - Saves a `.txt` summary in the `output/` directory  
 - Shows a plot comparing portfolio vs. benchmark performance  
 
-> The backtest covers the period from 2000 to 2020.  
+> The backtest covers the 30 year period from January 1994 to December 2023.  
 > The `output/` folder contains the full result summary as a `.txt` file and the equity curve plot comparing the PEAD strategy against the benchmark.
 
 ## 📁 Data Disclaimer

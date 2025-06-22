@@ -1,0 +1,25 @@
+=== PEAD-Strategy Backtest Results ===
+
+Period: 1994-01-03 to 2023-12-31
+
+SUE-Score thresholds: -3.78 to 0.635
+A long position is opened if the SUE-score exceeds the upper threshold,
+and a short position if it falls below the lower threshold.
+
+Total return portfolio: 5773% ($5773086)
+Total return benchmark: 1664% ($1664435)
+
+Annualized return portfolio: 14.02%
+Annualized return benchmark: 9.68%
+Annualized excess return: 4.33%
+
+Volatility portfolio: 16.79%
+Volatility benchmark: 18.68%
+
+Sharpe Ratio portfolio: 0.0488
+Sharpe Ratio benchmark: 0.0315
+Jensen's Alpha portfolio: 5.91%
+Risk-free rate (3M average): 2.38%
+
+Transaction cost portfolio: $356916 on $360204967 volume
+Transaction cost benchmark: $1338 on $1864410 volume
