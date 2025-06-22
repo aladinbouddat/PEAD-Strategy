@@ -74,5 +74,5 @@ This project demonstrates my ability to:
 ## Author
 
 **Aladin Bouddat**  
-[GitHub](https://github.com/uzhprogrammer)  
+[GitHub](https://github.com/aladinbouddat)  
 [LinkedIn](https://www.linkedin.com/in/aladinbouddat)
