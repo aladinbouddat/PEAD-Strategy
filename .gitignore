@@ -39,3 +39,4 @@ Desktop.ini
 # --- Others ---
 *.bak
 *.tmp
+data/*.csv
