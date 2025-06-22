@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# --- Virtual environment ---
+venv/
+.env/
+.envrc
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- MacOS ---
+.DS_Store
+
+# --- VSCode / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Output & results ---
+output/
+.installed
+
+# --- OS junk ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Others ---
+*.bak
+*.tmp
