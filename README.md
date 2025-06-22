@@ -1,4 +1,4 @@
-# PEAD-strategy
+# PEAD-Strategy
 
 A quantitative trading strategy exploiting the Post-Earnings Announcement Drift (PEAD) anomaly. Developed as part of my Bachelor's thesis at the University of Zurich  
 (BSc Banking & Finance, Minor in Computer Science).
